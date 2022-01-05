@@ -1,0 +1,30 @@
+body {
+    background: #8e44ad;
+}
+
+#container{
+    background-color:#2980b9 ;
+    border: 5px solid #f5e4c3 ;
+    height: 275px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+}
+p{
+    color: #ecf0f1;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+
+}
+#input{
+    width: 100px;
+    margin: 25px;
+
+}
+#btn{
+    margin: 25px auto auto 5px;
+    
+
+
+
+}
